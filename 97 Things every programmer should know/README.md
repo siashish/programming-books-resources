@@ -1,0 +1,1 @@
+# 97 Things every programmer should know 
