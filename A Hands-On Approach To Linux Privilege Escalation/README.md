@@ -1,0 +1,2 @@
+# "A Hands-On Approach To Linux Privilege Escalation", 2020. 
+|| This document is intended to provide multiple techniques that a pentester can use to escalate their privileges and gain access to higher roles
